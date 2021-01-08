@@ -1,1 +1,1 @@
-# pegs
+# pegs.cash
