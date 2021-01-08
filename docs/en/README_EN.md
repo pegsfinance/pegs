@@ -12,11 +12,8 @@ Pegs cash can peg the currency value of the real market, and firmly peg the real
 
 
 
-Website: [frax.finance](https://frax.finance/) 
-
-Telegram: https://t.me/fraxfinance 
-
-Twitter: https://twitter.com/fraxfinance
-
-
+Website: https://pegs.cash
+Twitter: https://twitter.com/pegscash
+Telegram: https://t.me/pegscash
+Medium: https://medium.com/@pegscash
 
