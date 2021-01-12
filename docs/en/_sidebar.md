@@ -1,8 +1,0 @@
-- [README](en/README_EN.md)
-	- [Introduction](en/Introduction.md)
-	- [Price-stability](en/Price-Stability.md)
-	- [Minting&Redeeming](en/Minting&Redeeming.md)
-	- [Pegs-Share(PEGS)](en/Pegs-Share(PEGS).md)
-	- [Buybacks&Recollateralization](en/Buybacks&Recollateralization.md)
-	- [Liquidity-Programs&Staking](en/Liquidity-Programs&Staking.md)
-	- [Conclusion](en/Conclusion.md)
