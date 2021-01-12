@@ -1,8 +1,0 @@
-- [README_CN](zh-cn/README_CN.md)
-	- [介绍](zh-cn/介绍.md)
-	- [价格的稳定性](zh-cn/价格的稳定性.md)
-	- [铸造和赎回](zh-cn/铸造和赎回.md)
-	- [Pegs-Share(PEGS)](zh-cn/Pegs-Share(PEGS).md)
-	- [回购和再抵押](zh-cn/回购和再抵押.md)
-	- [流动性计划与质押](zh-cn/流动性计划与质押.md)
-	- [结论](zh-cn/结论.md)
